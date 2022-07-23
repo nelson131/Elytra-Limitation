@@ -1,0 +1,6 @@
+name: ElytraLimitation
+version: 1.0.0
+main: me.nelson131.elytralimitation.ElytraLimitation
+api-version: 1.19
+description: to disable firework boost and elytra fly
+author: nelson131
